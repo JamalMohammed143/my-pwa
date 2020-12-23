@@ -1,0 +1,20 @@
+{
+    "name": "app-shortcuts",
+    "version": "0.0.1",
+    "description": "app-shortcuts.glitch.me",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1"
+    },
+    "engines": {
+      "node": "8.x"
+    },
+    "repository": {
+      "url": "https://glitch.com/edit/#!/app-shortcuts"
+    },
+    "license": "MIT"
+  }
+  
